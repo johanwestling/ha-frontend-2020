@@ -4,7 +4,7 @@
 
 1. Gå till webbplatsen.
 
-1. Högerklicka, välj **Inspect** ```CTRL + SHIFT + i```.
+1. Högerklicka på webbplatsen, välj **Inspect** (<kbd>CTRL / ⌘</kbd> + <kbd>SHIFT</kbd> + <kbd>i</kbd>).
 
 1. Välj **Elements** fliken.
 
