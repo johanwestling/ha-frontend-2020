@@ -11,7 +11,7 @@
 1. Klicka dig fram till det element du vill markera i HTML-strukturen.
 
     _**Tips:** Det element du för musen över i HTML-strukturen markeras med en halv-transparent färg i webbplatsen._
-    
+
 1. När du har klickat på elementet du vill markera, gå till **Styles** i kolumnen brevid HTML-strukturen.
 
 1. Klicka på ```element.style {```.
@@ -21,5 +21,5 @@
     ```
     outline: 5px solid red
     ```
-    
+
     Färgkoda dina markeringar genom att ändra **red** i ovanstående exempel.
